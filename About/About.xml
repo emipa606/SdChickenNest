@@ -1,16 +1,17 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>[sd] Chicken Nest (Continued)</name>
-	<packageId>Mlie.SdChickenNest</packageId>
-	<author>Mlie</author>
-	<url>https://github.com/emipa606/SdChickenNest</url>
-	<supportedVersions>
-		<li>1.0</li>
-		<li>1.1</li>
-	</supportedVersions>
-	<modDependencies />
-	<loadAfter />
-	<description>Update of sulusdacors mod for RimWorld 1.1
+  <name>[sd] Chicken Nest (Continued)</name>
+  <packageId>Mlie.SdChickenNest</packageId>
+  <author>Mlie</author>
+  <url>https://github.com/emipa606/SdChickenNest</url>
+  <supportedVersions>
+    <li>1.0</li>
+    <li>1.1</li>
+    <li>1.2</li>
+  </supportedVersions>
+  <modDependencies />
+  <loadAfter />
+  <description>Update of sulusdacors mod for RimWorld 1.1
 https://steamcommunity.com/sharedfiles/filedetails/?id=760708576
 
 Support-chat:
@@ -43,5 +44,4 @@ GitHub: https://github.com/sulusdacor/sd_chickennest/releases
 
 Dropbox link to folder with old mods in forum topic for the mod.
 Changelog in forumtopic or about folder of mod.</description>
-	
-	</ModMetaData>
+</ModMetaData>
