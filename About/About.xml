@@ -1,4 +1,4 @@
-﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
   <name>[sd] Chicken Nest (Continued)</name>
   <packageId>Mlie.SdChickenNest</packageId>
@@ -8,40 +8,55 @@
     <li>1.0</li>
     <li>1.1</li>
     <li>1.2</li>
+    <li>1.3</li>
   </supportedVersions>
   <modDependencies />
   <loadAfter />
-  <description>Update of sulusdacors mod for RimWorld 1.1
+  <description>[img]https://i.imgur.com/WAEzk68.png[/img]
+Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=760708576
 
-Support-chat:
-https://discord.gg/SuhwVpM
+[img]https://i.imgur.com/7Gzt3Rg.png[/img]
 
-Non-steam version:
-https://github.com/emipa606/SdChickenNest
+[table]
+	[tr]
+		[td][url=https://invite.gg/Mlie][img]https://i.imgur.com/zdzzBrc.png[/img][/url][/td]
+		[td][url=https://github.com/emipa606/SdChickenNest][img]https://i.imgur.com/kTkpTOE.png[/img][/url][/td]
+	[/tr]
+[/table]
 	
---- Original Description ---
-"chicken nest"
+[img]https://i.imgur.com/NOW7jU1.png[/img]
+
+not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
+
+[h1]&quot;chicken nest&quot;[/h1]
 
 want to build your chicken coop in style, here is the mod for you ;)
-
-- adds a nest for small animals to the game. made out of hay, same stats as the animal sleeping box. don't needs research to build.
+	
+- adds a nest for small animals to the game. made out of hay, same stats as the animal sleeping box. don&apos;t needs research to build.
 -you can switch textures by rotating the item (one lighter and one darker)
 
-additional Languages: german, ChineseSimplified (thx to WishingLaws), spanish and spanish latin (thx to CANALETA)
+[b]additional Languages:[/b] german, ChineseSimplified (thx to WishingLaws), spanish and spanish latin (thx to CANALETA)
 
-Details:
+[h1]Details:[/h1]
 
 the mod just adds another item like the small animal box. you can still build the normal box. the chicken nest is not restricted to chickens only. it can be used by other small animals too,like the normal box. it includes 2 chicken nests different textures (switch with rotate), one darker and one brighter. you can minify the building and reinstall to switch the textures. picture for the brighter one can be found on the steamworkshop link. just another texture to make your base/farm look nice ;)
 
-Ludeon forum topic:
+[i]Ludeon forum topic:[/i]
 https://ludeon.com/forums/index.php?topic=26276.0
-(has dropbox links,since steam don't seem to like them for soem reason -.-)
 
-Dropbox: https://www.dropbox.com/s/64vm1ur47aaoxdx/sd_chickennest_v1.7z?dl=0
+Changelog in forumtopic or about folder of mod.
 
-GitHub: https://github.com/sulusdacor/sd_chickennest/releases
 
-Dropbox link to folder with old mods in forum topic for the mod.
-Changelog in forumtopic or about folder of mod.</description>
+[img]https://i.imgur.com/Rs6T6cr.png[/img]
+[list]
+[*] See if the the error persists if you just have this mod and its requirements active.
+[*] If not, try adding your other mods until it happens again.
+[*] Post your error-log using [url=https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib[/url] and command Ctrl+F12
+[*] For best support, please use the Discord-channel for error-reporting.
+[*] Do not report errors by making a discussion-thread, I get no notification of that.
+[*] If you have the solution for a problem, please post it to the GitHub repository.
+[/list]
+</description>
 </ModMetaData>
+
