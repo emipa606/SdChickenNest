@@ -1,33 +1,24 @@
 # SdChickenNest
 
-![Image](https://i.imgur.com/WAEzk68.png)
+![Image](https://i.imgur.com/buuPQel.png)
 
 Update of sulusdacors mod
 https://steamcommunity.com/sharedfiles/filedetails/?id=760708576
 
-![Image](https://i.imgur.com/7Gzt3Rg.png)
+![Image](https://i.imgur.com/pufA0kM.png)
 
-
-[table]
-	[tr]
-		[td]https://invite.gg/Mlie]![Image](https://i.imgur.com/zdzzBrc.png)
-[/td]
-		[td]https://github.com/emipa606/SdChickenNest]![Image](https://i.imgur.com/kTkpTOE.png)
-[/td]
-	[/tr]
-[/table]
 	
-![Image](https://i.imgur.com/NOW7jU1.png)
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
 
 not doing anymore updates for any rimworld mods, please feel free to update and upload the mods on steam, i dont mind.
 
-# &quot;chicken nest&quot;
+# "chicken nest"
 
 
 want to build your chicken coop in style, here is the mod for you ;)
 	
-- adds a nest for small animals to the game. made out of hay, same stats as the animal sleeping box. don&apos;t needs research to build.
+- adds a nest for small animals to the game. made out of hay, same stats as the animal sleeping box. don't needs research to build.
 -you can switch textures by rotating the item (one lighter and one darker)
 
 **additional Languages:** german, ChineseSimplified (thx to WishingLaws), spanish and spanish latin (thx to CANALETA)
@@ -43,7 +34,7 @@ https://ludeon.com/forums/index.php?topic=26276.0
 Changelog in forumtopic or about folder of mod.
 
 
-![Image](https://i.imgur.com/Rs6T6cr.png)
+![Image](https://i.imgur.com/PwoNOj4.png)
 
 
 
@@ -53,6 +44,7 @@ Changelog in forumtopic or about folder of mod.
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
+
 
 
 
