@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: chicken nest -->
+  <sd_chickennest.label>chicken nest</sd_chickennest.label>
+  <!-- EN: A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. You can switch textures by rotating it. -->
+  <sd_chickennest.description>A small nest for animals to sleep in. Fits smaller animals like chickens, cats, or small dogs. You can switch textures by rotating it.</sd_chickennest.description>
+</LanguageData>
